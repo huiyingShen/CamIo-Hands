@@ -1,2 +1,4 @@
-opencv2.framework
+CamIo3rd/opencv2.framework/opencv
 CamIo3rd/*.obj
+CamIo3rd/names/
+CamIo3rd/des/
